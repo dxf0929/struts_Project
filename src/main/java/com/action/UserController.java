@@ -17,6 +17,13 @@ public class UserController {
         System.out.println("密码正确");
         return Action.SUCCESS;
     }
+    
+    public String queryByList(){
+        
+        
+        
+        return Action.SUCCESS;
+    }
 
     public String getUsername() {
         return username;
