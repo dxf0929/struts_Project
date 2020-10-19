@@ -6,5 +6,5 @@ package com.entity;
  */
 public class User {
     private String  id;
-    private String name;
+    private String name = "宋英建是傻比";
 }
